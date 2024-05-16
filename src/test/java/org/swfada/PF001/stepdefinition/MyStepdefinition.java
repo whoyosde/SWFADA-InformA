@@ -17,7 +17,7 @@ public class MyStepdefinition {
         myStep.QueElUsuarioIngresaALaPlataformaReJA();
     }
 
-    @Cuando("PF001 - selecciona la instalación {string}")
+    @Y("PF001 - selecciona la instalación {string}")
     public void SeleccionaLaInstalación(String instalación) {
         myStep.SeleccionaLaInstalación(instalación);
     }
