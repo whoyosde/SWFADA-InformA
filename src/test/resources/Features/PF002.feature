@@ -3,7 +3,7 @@
 Característica: PF.002 - Acceso con DNI incorrecto
   Como usuario común
   Quiero autenticarme con DNI incorrecto
-  Para validar el acceso
+  Para validar el acceso a InformA
 
   Esquema del escenario: Autenicación mediante DNI incorrecto
     Dado PF002 - que el usuario ingresa a la plataforma InformA

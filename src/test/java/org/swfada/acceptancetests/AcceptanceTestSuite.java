@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         stepNotifications = true,
         features = "src/test/resources/Features",
         glue = "org.swfada",
-        tags = "@PF.002"
+        tags = "@PF.004"
 )
 public class AcceptanceTestSuite {
 }
